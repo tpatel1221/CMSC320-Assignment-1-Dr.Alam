@@ -7,3 +7,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: Data science can be applied to many fields. I interned in the United States Patent and Trademark Office where I studied trends in trademarks and patents by hand and did data collections on patent rejections. Data science could be applied to this field as there are many hundreds of thousands applications each year that are rejected and they all may rely on each other. Instead of doing this by hand, this could be done more efficiently and effectively by applying data science. 
 
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: In merge, the histories are fused together, combinign both, whereas in rebase the other branch's history is overwritten
+
+
+
