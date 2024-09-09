@@ -11,5 +11,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: In merge, the histories are fused together, combinign both, whereas in rebase the other branch's history is overwritten
 
+Q3: What skills do you hope to improve during this course?
 
+Answer: I hope to gain experience in data science and improve my ability to understand Big Data and how it can be analyzed to see meaningful trends through technical aspects as well as what effects it may have on society.
 
